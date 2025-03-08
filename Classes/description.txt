@@ -1,0 +1,28 @@
+The unlimited container!
+
+One of the most precious relic of the lost civilization is into your hands. With the Bottomless Jar you don't have to worry any more about where you could store all the precious items you've found.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Bottomless Jar: You can store any number of object inside the BJ and take them out later.
+
+[b]COMMANDS[/b]
+- [b][4]:[/b] Place the object you lick into the BJ.
+- [b][5]:[/b] Remove from the BJ the last object you palced in.
+
+[b]GAMEPAD COMMANDS[/b]
+ [b][DPadLeft]:[/b] Place the object you lick into the BJ.
+- [b][DPadRight]:[/b] Remove from the BJ the last object you palced in.
+
+[b]CHARACTERISTICS[/b]
+- Everything you can lick can enter into the BJ.
+- When a moving object come out of the BJ, it will return where it was before you placed it inside.
+
+[b]KNOWN BUGS[/b]
+- If you take out items out of the jar too fast, they can become stuck inside each other.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]I thought about some kind of infinite bag a long time ago but forgot it almost immediately. After discussing with NovaTempest4892 on the King Goat page about the possibility to make a Kirby Goat, I remembered this idea and decided to make the mod when I will have a moment ^^
+The result is the Bottomless Jar, which work a bit like the IIC : it teleport the objects you store in a place far away outside the map, and then teleport them back in front of you when you want them back.
+[/quote]
